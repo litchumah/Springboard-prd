@@ -46,7 +46,7 @@ $ pytest .
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+The deplyment was made on a EC2 machine on AWS and accessed by it's IP address.
 
 ## Built With
 
