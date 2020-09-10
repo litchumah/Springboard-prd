@@ -60,4 +60,4 @@ The deplyment was made on a EC2 machine on AWS and accessed by it's IP address.
 
 See also the list of [contributors](https://github.com/litchumah/Springboard-prd/contributors) who participated in this project.
 
-## Exemplo de template copiado de: https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+### Example template from: https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
